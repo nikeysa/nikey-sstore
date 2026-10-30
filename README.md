@@ -1,0 +1,2 @@
+# nikey-sstore
+lindungi kulitmu!
